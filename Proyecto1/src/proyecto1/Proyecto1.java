@@ -10,12 +10,13 @@ package proyecto1;
  * @author Fabian Aya
  */
 public class Proyecto1 {
-
+int a ;
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        
     }
     
 }
